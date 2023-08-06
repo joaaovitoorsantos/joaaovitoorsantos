@@ -19,3 +19,17 @@ Sou um desenvolvedor web fullstack apaixonado por tecnologia e pela arte de cria
 Minha jornada na programação começou com curiosidade e entusiasmo, e hoje posso afirmar que a paixão pelo desenvolvimento de software me motiva todos os dias. Acredito no poder da tecnologia para transformar vidas e negócios, e estou em constante evolução para oferecer soluções inovadoras e eficientes.
 
 
+## Projetos Desenvolvidos ✨🚀
+
+- **Estacionamento 239** 🅿️🚗: Sistema de gerenciamento de estacionamentos.
+- **Vconecta** 💻🌐: Landing page criada em HTML e CSS.
+- **Anglo Vestibular** 🎓📝: Site de inscrição de vestibular desenvolvido em React (parte de frontend).
+- **Anglo Vestibulinho** 🎓🔍: Site de inscrição de vestibulinho para nono ano feito em React (parte de frontend).
+- **Conveniencia 239** 🏪💰: PDV (Ponto de Venda) para conveniência desenvolvido em PHP.
+- **Delivery** 🚚📦: Plataforma para gestão de entregas, manutenções e abastecimento para entregadores de farmácia.
+- **Vou** 🚗🔑: Locadora de veículos - Site desenvolvido em Next.js usando TypeScript.
+- **Sistema Vou** 🚗💼: Sistema de gerenciamento de locações de veículos em Next.js e TypeScript.
+- **Exames Super Popular** 💉🩺: Site desenvolvido em Next.js para agendamento de exames e serviços farmacêuticos.
+- **ClubHub** 🎥🎙️: Plataforma de streaming para influenciadores digitais, incluindo loja, vídeos, podcasts e mais (atuei como front-end).
+
+Esses projetos demonstram minha experiência em diversas tecnologias e setores, mostrando minha habilidade em criar soluções variadas e inovadoras. Espero que gostem do meu portfólio! 😊👍
