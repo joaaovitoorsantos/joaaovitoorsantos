@@ -1,18 +1,21 @@
-### Hi there 👋
+### Olá! Eu sou o João Vitor 👋
 
-<!--
-**joaaovitoorsantos/joaaovitoorsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Conecte-se comigo:
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-santos-1274aa219/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joaaovitoorsantos/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Habilidades Técnicas:
 
-[!Email(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, React Native
+- **Back-end:** Node.js, PHP
+- **Banco de Dados:** MySQL
+- **Outras:** Git, Next.js, Lua FiveM
+
+### 💼 Sobre Mim:
+
+Sou um desenvolvedor web fullstack apaixonado por tecnologia e pela arte de criar soluções digitais. Com experiência em projetos web e mobile, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para entregar resultados incríveis.
+
+Minha jornada na programação começou com curiosidade e entusiasmo, e hoje posso afirmar que a paixão pelo desenvolvimento de software me motiva todos os dias. Acredito no poder da tecnologia para transformar vidas e negócios, e estou em constante evolução para oferecer soluções inovadoras e eficientes.
+
+
