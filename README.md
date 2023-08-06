@@ -31,5 +31,6 @@ Minha jornada na programação começou com curiosidade e entusiasmo, e hoje pos
 - **Sistema Vou** 🚗💼: Sistema de gerenciamento de locações de veículos em Next.js e TypeScript.
 - **Exames Super Popular** 💉🩺: Site desenvolvido em Next.js para agendamento de exames e serviços farmacêuticos.
 - **ClubHub** 🎥🎙️: Plataforma de streaming para influenciadores digitais, incluindo loja, vídeos, podcasts e mais (atuei como front-end).
+- **Servidor de FiveM** 🚀🎮: Criação de servidor de Roleplay para GTA 5 utilizando Lua.
 
 Esses projetos demonstram minha experiência em diversas tecnologias e setores, mostrando minha habilidade em criar soluções variadas e inovadoras. Espero que gostem do meu portfólio! 😊👍
