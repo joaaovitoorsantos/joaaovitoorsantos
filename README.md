@@ -26,11 +26,13 @@ Minha jornada na programação começou com curiosidade e entusiasmo, e hoje pos
 - **Anglo Vestibular** 🎓📝: Site de inscrição de vestibular desenvolvido em React (parte de frontend).
 - **Anglo Vestibulinho** 🎓🔍: Site de inscrição de vestibulinho para nono ano feito em React (parte de frontend).
 - **Conveniencia 239** 🏪💰: PDV (Ponto de Venda) para conveniência desenvolvido em PHP.
-- **Delivery** 🚚📦: Plataforma para gestão de entregas, manutenções e abastecimento para entregadores de farmácia.
+- **Delivery** 🚚📦: Aplicativo PWA e Plataforma para gestão de entregas, manutenções e abastecimento para entregadores de farmácia.
 - **Vou** 🚗🔑: Locadora de veículos - Site desenvolvido em Next.js usando TypeScript.
 - **Sistema Vou** 🚗💼: Sistema de gerenciamento de locações de veículos em Next.js e TypeScript.
 - **Exames Super Popular** 💉🩺: Site desenvolvido em Next.js para agendamento de exames e serviços farmacêuticos.
 - **ClubHub** 🎥🎙️: Plataforma de streaming para influenciadores digitais, incluindo loja, vídeos, podcasts e mais (atuei como front-end).
 - **Servidor de FiveM** 🚀🎮: Criação de servidor de Roleplay para GTA 5 utilizando Lua.
+- **Ares** 💼💰: Aplicação PWA para gestão financeira pessoal, facilitando o controle e a organização de suas finanças.
+- **Abode** 🏠📊: Aplicativo PWA destinado a auxiliar novos moradores na organização da casa, gerenciando tarefas, compras e outras necessidades domésticas.
 
 Esses projetos demonstram minha experiência em diversas tecnologias e setores, mostrando minha habilidade em criar soluções variadas e inovadoras. Espero que gostem do meu portfólio! 😊👍
