@@ -1,38 +1,42 @@
-### Olá! Eu sou o João Vitor 👋
+## João Vitor
 
-#### Conecte-se comigo:
+Desenvolvedor Full Stack com foco em entregar soluções digitais eficientes e modernas. Tenho experiência em projetos web e mobile, desde sistemas corporativos a aplicações PWA e soluções personalizadas para negócios. Valorizo o código limpo, a experiência do usuário e a constante evolução técnica.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-santos-1274aa219/)
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-santos-1274aa219/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joaaovitoorsantos/)
 
-### 🚀 Habilidades Técnicas:
+---
 
-- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, React Native
-- **Back-end:** Node.js, PHP
-- **Banco de Dados:** MySQL
-- **Outras:** Git, Next.js, Lua FiveM
+### 🛠️ Tecnologias
 
-### 💼 Sobre Mim:
+- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, React Native  
+- **Back-end:** Node.js, PHP  
+- **Banco de dados:** MySQL  
+- **Outros:** Git, Next.js, Lua (FiveM)
 
-Sou um desenvolvedor web fullstack apaixonado por tecnologia e pela arte de criar soluções digitais. Com experiência em projetos web e mobile, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para entregar resultados incríveis.
+---
 
-Minha jornada na programação começou com curiosidade e entusiasmo, e hoje posso afirmar que a paixão pelo desenvolvimento de software me motiva todos os dias. Acredito no poder da tecnologia para transformar vidas e negócios, e estou em constante evolução para oferecer soluções inovadoras e eficientes.
+### Sobre mim
 
+Sou movido por desafios e motivado pelo impacto que a tecnologia pode gerar. Iniciei na programação por curiosidade e hoje construo sistemas com propósito e visão. Tenho preferência por assumir projetos do início ao fim, cuidando tanto da estrutura quanto da entrega final. Acredito na autonomia como motor de criatividade e inovação.
 
-## Projetos Desenvolvidos ✨🚀
+---
 
-- **Estacionamento 239** 🅿️🚗: Sistema de gerenciamento de estacionamentos.
-- **Vconecta** 💻🌐: Landing page criada em HTML e CSS.
-- **Anglo Vestibular** 🎓📝: Site de inscrição de vestibular desenvolvido em React (parte de frontend).
-- **Anglo Vestibulinho** 🎓🔍: Site de inscrição de vestibulinho para nono ano feito em React (parte de frontend).
-- **Conveniencia 239** 🏪💰: PDV (Ponto de Venda) para conveniência desenvolvido em PHP.
-- **Delivery** 🚚📦: Aplicativo PWA e Plataforma para gestão de entregas, manutenções e abastecimento para entregadores de farmácia.
-- **Vou** 🚗🔑: Locadora de veículos - Site desenvolvido em Next.js usando TypeScript.
-- **Sistema Vou** 🚗💼: Sistema de gerenciamento de locações de veículos em Next.js e TypeScript.
-- **Exames Super Popular** 💉🩺: Site desenvolvido em Next.js para agendamento de exames e serviços farmacêuticos.
-- **ClubHub** 🎥🎙️: Plataforma de streaming para influenciadores digitais, incluindo loja, vídeos, podcasts e mais (atuei como front-end).
-- **Servidor de FiveM** 🚀🎮: Criação de servidor de Roleplay para GTA 5 utilizando Lua.
-- **Ares** 💼💰: Aplicação PWA para gestão financeira pessoal, facilitando o controle e a organização de suas finanças.
-- **Abode** 🏠📊: Aplicativo PWA destinado a auxiliar novos moradores na organização da casa, gerenciando tarefas, compras e outras necessidades domésticas.
+### 🧩 Alguns Projetos
 
-Esses projetos demonstram minha experiência em diversas tecnologias e setores, mostrando minha habilidade em criar soluções variadas e inovadoras. Espero que gostem do meu portfólio! 😊👍
+- **Estacionamento 239:** Sistema completo de gestão de estacionamentos.  
+- **Conveniência 239:** PDV completo desenvolvido em PHP para lojas de conveniência.  
+- **Delivery PWA:** Gestão de entregas, manutenção e abastecimento para entregadores.  
+- **Vou:** Plataforma de locadora de veículos construída com Next.js e TypeScript.  
+- **Sistema Vou:** Dashboard administrativo para controle de locações.  
+- **Exames Super Popular:** Agendamento de serviços farmacêuticos em Next.js.  
+- **ClubHub:** Plataforma de streaming para influenciadores (front-end).  
+- **Ares:** PWA para controle financeiro pessoal.  
+- **Abode:** Aplicativo para organização doméstica e rotina de novos moradores.  
+- **Servidor RP (FiveM):** Criação e customização de servidor Roleplay em Lua.  
+- **Anglo Vestibular/Vestibulinho:** Plataformas de inscrição desenvolvidas em React.  
+- **Vconecta:** Landing page institucional em HTML e CSS.
+
+---
