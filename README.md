@@ -1,6 +1,6 @@
 ## João Vitor
 
-Desenvolvedor Full Stack com foco em entregar soluções digitais eficientes e modernas. Tenho experiência em projetos web e mobile, desde sistemas corporativos a aplicações PWA e soluções personalizadas para negócios. Valorizo o código limpo, a experiência do usuário e a constante evolução técnica.
+Desenvolvedor Full Stack com foco em criar soluções digitais completas — do backend à interface, da ideia ao produto final. Atuo com Next.js, TypeScript, React Native e tecnologias modernas para entregar valor com velocidade, estabilidade e clareza técnica.
 
 ### 🌐 Conecte-se comigo
 
@@ -9,18 +9,20 @@ Desenvolvedor Full Stack com foco em entregar soluções digitais eficientes e m
 
 ---
 
-### 🛠️ Tecnologias
+### 💡 O que eu entrego
 
-- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, React Native  
-- **Back-end:** Node.js, PHP  
-- **Banco de dados:** MySQL  
-- **Outros:** Git, Next.js, Lua (FiveM)
+- **Autonomia de ponta a ponta:** arquitetura, desenvolvimento, deploy e manutenção.
+- **Visão de produto:** foco no problema, na usabilidade e no valor entregue.
+- **Código limpo e escalável:** sempre pensando em performance e legibilidade.
+- **Ritmo de startup:** entregas rápidas, mas sem perder qualidade.
 
 ---
 
-### Sobre mim
+### 🧪 Tecnologias favoritas no momento
 
-Sou movido por desafios e motivado pelo impacto que a tecnologia pode gerar. Iniciei na programação por curiosidade e hoje construo sistemas com propósito e visão. Tenho preferência por assumir projetos do início ao fim, cuidando tanto da estrutura quanto da entrega final. Acredito na autonomia como motor de criatividade e inovação.
+- **Next.js**  
+- **TypeScript**  
+- **React Native**  
 
 ---
 
@@ -38,5 +40,11 @@ Sou movido por desafios e motivado pelo impacto que a tecnologia pode gerar. Ini
 - **Servidor RP (FiveM):** Criação e customização de servidor Roleplay em Lua.  
 - **Anglo Vestibular/Vestibulinho:** Plataformas de inscrição desenvolvidas em React.  
 - **Vconecta:** Landing page institucional em HTML e CSS.
+
+---
+
+### 🧠 Mentalidade
+
+> Construir é onde me sinto vivo. Resolver problemas me move. Tecnologia é meu meio.
 
 ---
