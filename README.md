@@ -1,50 +1,102 @@
-## João Vitor
+<div align="center">
 
-Desenvolvedor Full Stack com foco em criar soluções digitais completas — do backend à interface, da ideia ao produto final. Atuo com Next.js, TypeScript, React Native e tecnologias modernas para entregar valor com velocidade, estabilidade e clareza técnica.
+<img src="./digital-hands-banner.png" width="100%" alt="Digital hands reaching across a technical grid" />
 
-### 🌐 Conecte-se comigo
+# JOÃO VITOR DOS SANTOS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-santos-1274aa219/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joaaovitoorsantos/)
+### SOFTWARE ENGINEER · FULL STACK · AI SYSTEMS
 
----
+Building software for real-world operations — from product discovery to production.
 
-### 💡 O que eu entrego
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaaovitoorsantos/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaaovitoorsantos/)
 
-- **Autonomia de ponta a ponta:** arquitetura, desenvolvimento, deploy e manutenção.
-- **Visão de produto:** foco no problema, na usabilidade e no valor entregue.
-- **Código limpo e escalável:** sempre pensando em performance e legibilidade.
-- **Ritmo de startup:** entregas rápidas, mas sem perder qualidade.
+</div>
 
 ---
 
-### 🧪 Tecnologias favoritas no momento
+## ABOUT
 
-- **Next.js**  
-- **TypeScript**  
-- **React Native**  
+<img align="right" width="310" src="./cyber-engineer-black.png" alt="Monochrome cybernetic engineer illustration" />
 
----
+I'm a software engineer who naturally looks beyond the code. For 6+ years, I've built web, mobile, backend, and infrastructure solutions across mobility, fleet operations, CRM, rental management, and business operations.
 
-### 🧩 Alguns Projetos
+I work end to end — understanding the operation, shaping the product, designing the architecture, building integrations, deploying, and continuously improving what runs in production.
 
-- **Estacionamento 239:** Sistema completo de gestão de estacionamentos.  
-- **Conveniência 239:** PDV completo desenvolvido em PHP para lojas de conveniência.  
-- **Delivery PWA:** Gestão de entregas, manutenção e abastecimento para entregadores.  
-- **Vou:** Plataforma de locadora de veículos construída com Next.js e TypeScript.  
-- **Sistema Vou:** Dashboard administrativo para controle de locações.  
-- **Exames Super Popular:** Agendamento de serviços farmacêuticos em Next.js.  
-- **ClubHub:** Plataforma de streaming para influenciadores (front-end).  
-- **Ares:** PWA para controle financeiro pessoal.  
-- **Abode:** Aplicativo para organização doméstica e rotina de novos moradores.  
-- **Servidor RP (FiveM):** Criação e customização de servidor Roleplay em Lua.  
-- **Anglo Vestibular/Vestibulinho:** Plataformas de inscrição desenvolvidas em React.  
-- **Vconecta:** Landing page institucional em HTML e CSS.
+Technology is the means. Solving the right problem is the goal.
+
+<br clear="right"/>
 
 ---
 
-### 🧠 Mentalidade
+## CURRENT FOCUS
 
-> Construir é onde me sinto vivo. Resolver problemas me move. Tecnologia é meu meio.
+- **Software architecture** — reliable, scalable systems built for change
+- **Backend engineering** — APIs, asynchronous workflows, queues, integrations, and observability
+- **Applied AI** — LLMs as explainability and productivity layers around auditable systems
+- **Product engineering** — technical decisions grounded in users, operations, and measurable value
+- **Mobile & web** — cohesive experiences from field operations to management dashboards
 
 ---
+
+## SELECTED WORK
+
+### VIGILANTE · Intelligent Fleet Monitoring
+
+Production system monitoring 200+ vehicles. It processes telemetry asynchronously, detects trips and operational risk through deterministic rules, learns routine locations with geospatial clustering, and uses a local LLM to translate auditable decisions into clear narratives for fleet managers.
+
+### VEI · Vehicle Inspection Platform
+
+React Native application that transformed a manual, decentralized inspection process into a traceable digital workflow with structured checklists, photo evidence, vehicle ratings, observations, and immediate management visibility.
+
+### BUSINESS PLATFORMS
+
+End-to-end systems for rental management, CRM, mobility, payments, internal operations, and real-time monitoring — from product definition and architecture to deployment and maintenance.
+
+---
+
+## STACK
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Systems-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## HOW I WORK
+
+`UNDERSTAND THE OPERATION` · `DESIGN FOR REALITY` · `BUILD END TO END` · `MEASURE AND IMPROVE`
+
+I combine technical execution, product thinking, operational context, and ownership. I enjoy ambiguous problems where good engineering means making the right decisions before writing the code.
+
+---
+
+## GITHUB
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=joaaovitoorsantos&theme=transparent&hide_border=true&ring=888888&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF)
+
+</div>
+
+---
+
+<div align="center">
+
+**Florianópolis, Brazil**
+
+Open to conversations about software architecture, product engineering, and applied AI.
+
+</div>
