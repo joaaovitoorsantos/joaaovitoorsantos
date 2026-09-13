@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./digital-hands-banner.png" width="100%" alt="Digital hands reaching across a technical grid" />
+<img src="./ascii-hands-banner.png" width="100%" alt="Hands built from ASCII characters across a terminal grid" />
 
 # JOÃO VITOR DOS SANTOS
 
@@ -17,7 +17,7 @@ Building software for real-world operations — from product discovery to produc
 
 ## ABOUT
 
-<img align="right" width="310" src="./cyber-engineer-black.png" alt="Monochrome cybernetic engineer illustration" />
+<img align="right" width="310" src="./ascii-astronaut-transparent.png" alt="Astronaut built from ASCII characters" />
 
 I'm a software engineer who naturally looks beyond the code. For 6+ years, I've built web, mobile, backend, and infrastructure solutions across mobility, fleet operations, CRM, rental management, and business operations.
 
